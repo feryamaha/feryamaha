@@ -12,11 +12,6 @@ Desenvolvedor Front End com experiência em construir aplicações web interativ
 
 ![Stacks and Languages](https://github.com/feryamaha/feryamaha/blob/main/2025-03-29%2000_32_10-Window.png)
 
-<style>
-  img[alt="Stacks and Languages"] {
-    height: 320px;
-  }
-</style>
 
 ## Estatísticas
 
