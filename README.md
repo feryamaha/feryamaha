@@ -1,6 +1,3 @@
-# profile = fernando_moreira.init()
-
-![Capa de Apresentação](https://github.com/feryamaha/feryamaha/blob/main/frame_3823-Dwhite.webp)
 
 ### Olá! 👋
 
