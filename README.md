@@ -2,7 +2,7 @@
 
 Olá, eu sou Fernando Moreira da Silva! 
 
-Sou um desenvolvedor Front-End autodidata apaixonado por transformar ideias em experiências digitais. 
+Sou um desenvolvedor Front-End autodidata apaixonado por transformar ideias em experiências digitais.                   
 Com uma abordagem autônoma e disciplinada, desenvolvo sites do zero e os elevo a soluções web modernas, responsivas, amigáveis e fiéis ao "pixel perfect" em relação aos designs do Figma.
 
 Antes de mergulhar no universo do desenvolvimento, acumulei 18 anos de experiência como Técnico em Plástico, com foco em engenharia de materiais, e em Metrologia 3D, com foco em engenharia reversa. 
