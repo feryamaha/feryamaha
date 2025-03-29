@@ -2,21 +2,16 @@
 
 ### Olá! 👋
 
-Eu sou Fernando Moreira, desenvolvedor Front end, apaixonado por criar projetos incríveis. Aqui está um pouco mais sobre mim e as tecnologias que uso no meu dia a dia.
+Eu sou Fernando Moreira, desenvolvedor Front end, apaixonado por criar projetos incríveis. 
 
 ## Sobre Mim
 
-Desenvolvedor Front End com experiência em construir aplicações web interativas e responsivas. Adoro aprender novas tecnologias e estou sempre em busca de novos desafios.
+Desenvolvedor Front End com experiência em construir aplicações web interativas e responsivas em pixel perfect.
 
 ## Stacks
 
 ![Stacks and Languages](https://github.com/feryamaha/feryamaha/blob/main/frame_3820-C.webp)
 
-<style>
-  img[alt="Stacks and Languages"] {
-    height: 320px;
-  }
-</style>
 
 ## Estatísticas
 
