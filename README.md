@@ -7,13 +7,14 @@ Desde 2022, passei por uma transição de carreira e venho me dedicando ao desen
 ## Pilha de Tecnologia e Ferramentas
 
 ### Linguagens de Programação
-Proficiente em várias linguagens, garantindo flexibilidade entre vários projetos e arquiteturas.
-
 <div style="display: flex; flex-direction: row; gap: 10px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  ### Em aprendizado! 
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+</div>
+
+### Linguagens em fase de aprendizado! 
+<div style="display: flex; flex-direction: row; gap: 10px; flex-wrap: wrap;">
+   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 </div>
 
