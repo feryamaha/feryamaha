@@ -61,21 +61,14 @@ Conhecimento profundo na infraestrutura em nuvem e gerenciamento de banco de dad
   <img src="https://img.shields.io/badge/-REST-000000?style=flat-square&logo=api&logoColor=white" alt="REST">
 </div>
 
-## Projetos
+## Entre em Contato Comigo
 
-### MLX Capital
-**HTML | CSS | JavaScript**  
-Frontend desenvolvido na [Auclan Design](https://auclandesign.com/) para o cliente MLX Capital.  
-- Estrutura semântica em HTML5 com seções `header`, `section`, `footer` e elementos como `nav` e `img com alt`, assegurando acessibilidade e otimização para SEO.  
-- CSS modular com arquivos distintos `main.css`, `components.css`, `grid.css`, variáveis em `:root` (ex.: `--black-700`), grid responsivo e animações refinadas com `transition` e `.service-card:hover`.  
-- JavaScript interativo com carrossel contínuo usando `requestAnimationFrame` e `translateX`, e menu responsivo via `addEventListener` e `classList`, integrando manipulação eficiente do DOM para interfaces modernas.  
-[Ver o projeto](https://feryamaha.github.io/MLX-2025/)  
-*Nota: Este deploy
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-</body>
+Sinta-se à vontade para entrar em contato! Estou sempre aberto a novas ideias e oportunidades.
 
-</html>
+- **Portifólio**:[Fernando Moreira](https://feryamaha.github.io/Portifolio-FernandoMoreira_front-end/)
+
+- **LinkedIn**: [Fernando Moreira](https://www.linkedin.com/in/feryamaha/)  
+- **GitHub**: [feryamaha](https://github.com/feryamaha)  
+- **Twitter**: [@feryamaha](https://x.com/_feryamaha)  
+- **Discord**: [Fernando Moreira](https://discord.com/channels/978717375362891776)
+  
