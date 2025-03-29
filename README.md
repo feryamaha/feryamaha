@@ -2,7 +2,17 @@
 
 Olá, eu sou Fernando Moreira da Silva! Sou um desenvolvedor Front-End autodidata. Posso desenvolver sites responsivos do zero e elevá-los a experiências web modernas, amigáveis e responsivas.
 
-Desde 2022, passei por uma transição de carreira e venho me dedicando ao desenvolvimento Front-End, atuando como freelancer e prestador de serviços. Antes disso, acumulei 18 anos de experiência na indústria como Metrologista, com formação em Técnico em Plástico e Metrologia Avançada para engenharia reversa. Hoje, meu foco é 100% em desenvolvimento Front-End, entregando soluções web de alta qualidade em Pixel Perfect.
+Desde 2022, passei por uma transição de carreira e venho me dedicando ao desenvolvimento Front-End, atuando como freelancer e prestador de serviços. Antes disso, acumulei 18 anos de experiência.
+
+Estou em processo de aprendizado e aqui está o que estou aprendendo no momento:
+
+- Trabalhar com a stack mais utilizada do mercado sem depender de bibliotecas
+- Construir APIs REST utilizando Node.js puro e com Express
+- Construir aplicações Front-end com React
+- Construir aplicativos mobile com React Native
+- Trabalhar com bancos de dados SQL usando SQL puro
+- Criar código limpo, reutilizável, escalável e de fácil manutenção
+- Como melhorar a UX e performance das suas aplicações
 
 ## Pilha de Tecnologia e Ferramentas
 
@@ -10,13 +20,14 @@ Desde 2022, passei por uma transição de carreira e venho me dedicando ao desen
 <div style="display: flex; flex-direction: row; gap: 10px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-     <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 </div>
 
 ### Frameworks
 <div style="display: flex; flex-direction: row; gap: 10px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native">
   <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js">
   <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular">
@@ -43,8 +54,9 @@ Desde 2022, passei por uma transição de carreira e venho me dedicando ao desen
 
 ### Dados e API
 <div style="display: flex; flex-direction: row; gap: 10px; flex-wrap: wrap;">
-   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
-   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express">
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/-Consumo%20de%20API-000000?style=flat-square&logo=api&logoColor=white" alt="Consumo de API">
   <img src="https://img.shields.io/badge/-Chamadas%20HTTP-000000?style=flat-square&logo=api&logoColor=white" alt="Chamadas HTTP">
   <img src="https://img.shields.io/badge/-REST-000000?style=flat-square&logo=api&logoColor=white" alt="REST">
@@ -55,7 +67,6 @@ Desde 2022, passei por uma transição de carreira e venho me dedicando ao desen
 Sinta-se à vontade para entrar em contato! Estou sempre aberto a novas ideias e oportunidades.
 
 - **Portifólio**:[<meu.portifólio/>](https://feryamaha.github.io/Portifolio-FernandoMoreira_front-end/)
-
 - **LinkedIn**: [<Fernando.Moreira/>](https://www.linkedin.com/in/feryamaha/)  
 - **GitHub**: [feryamaha](https://github.com/feryamaha)  
 - **Twitter**: [@feryamaha/>](https://x.com/_feryamaha)  
