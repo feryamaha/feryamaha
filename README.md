@@ -1,3 +1,25 @@
+# profile = fernando_moreira.init()
+
+```python
+profile.setProperty("role", "Desenvolvedor Front-End")
+
+def showcase_skills(stack, display_mode):
+    if display_mode == "visible":
+        try:
+            # Exibindo informações do perfil
+            print(f"Apresentando: Fernando Moreira")
+            print(f"Role: Desenvolvedor Front-End | Localização: Marília, SP, Brasil")
+            print(f"Stack: HTML, CSS, SASS, JavaScript, React, Next.js, Node.js, PostgreSQL")
+            print(f"Tools: VSCode, Git, GitHub, Vercel, Figma")
+            print(f"Foco: Usabilidade, Performance e Interfaces Responsivas")
+            print(f"Status: Freelancer Autodidata | Aberto a Oportunidades")
+        except Exception as e:
+            print(f"Erro ao exibir o perfil: {str(e)}")
+
+showcase_skills("front-end", "visible")
+
+------------------------------------------------------------------------------------------------
+
 
 
 ### Olá! 👋
