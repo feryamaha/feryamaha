@@ -1,68 +1,76 @@
+## Sobre Mim
 
-# 🚀 Sobre mim
+Olá, eu sou Fernando Moreira da Silva! Sou um desenvolvedor Front-End autodidata. Posso desenvolver sites responsivos do zero e elevá-los a experiências web modernas, amigáveis e responsivas.
 
-Olá! 👋 Sou Fernando Moreira, desenvolvedor Front End, apaixonado por criar projetos incríveis.
+Desde 2022, passei por uma transição de carreira e venho me dedicando ao desenvolvimento Front-End, atuando como freelancer e prestador de serviços. Antes disso, acumulei 18 anos de experiência na indústria como Metrologista, com formação em Técnico em Plástico e Metrologia Avançada para engenharia reversa. Hoje, meu foco é 100% em desenvolvimento Front-End, entregando soluções web de alta qualidade em Pixel Perfect.
 
-🌐 Desenvolvedor Front End – Focado em fornecer soluções de tecnologia de ponta.
-💻 Expertise em: Desenvolvimento de frontend, arquiteturas modernas e interfaces responsivas.
-🔥 Apaixonado pelas melhores práticas de engenharia de software, otimização de desempenho e código limpo.
-🤝 Sempre aberto a colaborações, novos desafios e compartilhamento de conhecimento com a comunidade de desenvolvedores.
+## Pilha de Tecnologia e Ferramentas
 
-## 🛠️ Pilha de tecnologia e ferramentas
+### Linguagens de Programação
+Proficiente em várias linguagens, garantindo flexibilidade entre vários projetos e arquiteturas.
 
-### 🚀 Linguagens de Programação
-Proficiente em vários idiomas, garantindo flexibilidade entre vários projetos e arquiteturas.
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-- JavaScript
-- TypeScript
-- Python
-- PHP
-- HTML
+### Frameworks
+Experiência prática com estruturas modernas de desenvolvimento.
 
-### 🚀 Frameworks e Ferramentas de Desenvolvimento
-Experiência prática com estruturas modernas e ferramentas essenciais para acelerar o desenvolvimento e a implantação.
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)  
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)  
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
-- React
-- Next.js
-- Vue.js
-- Angular
+### Design Visual
+Conhecimento profundo em interfaces visuais e estilização para o desenvolvimento e a implantação.
 
-### 🚀 Design Visual
-Experiência em criar interfaces visuais atraentes e funcionais.
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)  
+![CSS Modules](https://img.shields.io/badge/-CSS%20Modules-1572B6?style=flat-square&logo=css3&logoColor=white)  
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)  
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)  
+![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-- CSS
-- CSS Modules
-- Sass
-- Scss
-- TailwindCSS
-- Bootstrap
+### Tools
+Apoio para ambientes baseados em Linux e desenvolvimento de sistemas embarcados.
 
-### 🚀 Ferramentas
-Utilizo diversas ferramentas para garantir a eficiência e qualidade do desenvolvimento.
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)  
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-- VSCode
-- Git
-- GitHub
-- Vercel
-- Figma
+### Dados e API
+Conhecimento profundo na infraestrutura em nuvem e gerenciamento de banco de dados para aplicativos escaláveis.
 
-### 🚀 Dados e API
-Conhecimentos em banco de dados e consumo de APIs.
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
+![Consumo de API](https://img.shields.io/badge/-Consumo%20de%20API-000000?style=flat-square&logo=api&logoColor=white)  
+![Chamadas HTTP](https://img.shields.io/badge/-Chamadas%20HTTP-000000?style=flat-square&logo=api&logoColor=white)  
+![REST](https://img.shields.io/badge/-REST-000000?style=flat-square&logo=api&logoColor=white)
 
-- PostgreSQL
-- Node.js
-- Consumo de API
-- Chamadas HTTP
-- REST
+## Projetos
 
-## 📊 Estatísticas do GitHub
+### MLX Capital
+**HTML | CSS | JavaScript**  
+Frontend desenvolvido na [Auclan Design](https://auclandesign.com/) para o cliente MLX Capital.  
+- Estrutura semântica em HTML5 com seções `header`, `section`, `footer` e elementos como `nav` e `img com alt`, assegurando acessibilidade e otimização para SEO.  
+- CSS modular com arquivos distintos `main.css`, `components.css`, `grid.css`, variáveis em `:root` (ex.: `--black-700`), grid responsivo e animações refinadas com `transition` e `.service-card:hover`.  
+- JavaScript interativo com carrossel contínuo usando `requestAnimationFrame` e `translateX`, e menu responsivo via `addEventListener` e `classList`, integrando manipulação eficiente do DOM para interfaces modernas.  
+[Ver o projeto](https://feryamaha.github.io/MLX-2025/)  
+*Nota: Este deploy é uma versão preliminar, não refatorada como projeto final, servindo apenas como prévia de apresentação de projeto/experiência. O link oficial não será divulgado devido à LGPD e direitos legais do cliente.*
+
+## Estatísticas do GitHub
+
 ![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=feryamaha&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feryamaha&layout=compact&theme=radical)
 
-## 📫 Entre em contato comigo
-Interessado em colaborar ou apenas quer se conectar? Sinta-se à vontade para entrar em contato!
+## Entre em Contato Comigo
 
-📩 **E-mail**: [contato@feryamaha.com](mailto:contato@feryamaha.com)
-💼 **LinkedIn**: [Fernando Moreira](https://www.linkedin.com/in/feryamaha/)
-📌 **Twitter**: [@feryamaha](https://x.com/_feryamaha)
-🔥 Vamos construir algo grandioso juntos! 🚀
+Sinta-se à vontade para entrar em contato! Estou sempre aberto a novas ideias e oportunidades.
+
+- **LinkedIn**: [Fernando Moreira](https://www.linkedin.com/in/feryamaha/)  
+- **GitHub**: [feryamaha](https://github.com/feryamaha)  
+- **Twitter**: [@feryamaha](https://x.com/_feryamaha)  
+- **Discord**: [Fernando Moreira](https://discord.com/channels/978717375362891776)  
