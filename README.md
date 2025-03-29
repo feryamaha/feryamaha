@@ -65,10 +65,10 @@ Conhecimento profundo na infraestrutura em nuvem e gerenciamento de banco de dad
 
 Sinta-se à vontade para entrar em contato! Estou sempre aberto a novas ideias e oportunidades.
 
-- **Portifólio**:[Fernando Moreira](https://feryamaha.github.io/Portifolio-FernandoMoreira_front-end/)
+- **Portifólio**:[<meu.portifólio/>](https://feryamaha.github.io/Portifolio-FernandoMoreira_front-end/)
 
-- **LinkedIn**: [Fernando Moreira](https://www.linkedin.com/in/feryamaha/)  
-- **GitHub**: [feryamaha](https://github.com/feryamaha)  
-- **Twitter**: [@feryamaha](https://x.com/_feryamaha)  
-- **Discord**: [Fernando Moreira](https://discord.com/channels/978717375362891776)
+- **LinkedIn**: [<Fernando.Moreira/>](https://www.linkedin.com/in/feryamaha/)  
+- **GitHub**: [<feryamaha/>](https://github.com/feryamaha)  
+- **Twitter**: [@feryamaha/>](https://x.com/_feryamaha)  
+- **Discord**: [<Fernando.Moreira/>](https://discord.com/channels/978717375362891776)
   
