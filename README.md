@@ -21,9 +21,10 @@ Desenvolvedor Front End com experiência em construir aplicações web interativ
 
 ## Entre em Contato
 
-- **Email**: [contato@feryamaha.com](mailto:contato@feryamaha.com)
-- **LinkedIn**: [Fernando Moreira](https://www.linkedin.com/in/seuLinkedIn)
-- **Twitter**: [@feryamaha](https://twitter.com/feryamaha)
+- **Email**: [contato@feryamaha.com](feryamaha@hotmail.com)
+- **LinkedIn**: [Fernando Moreira]([https://www.linkedin.com/in/seuLinkedIn](https://www.linkedin.com/in/feryamaha/))
+- **Twitter**: [@feryamaha]([https://twitter.com/feryamaha](https://x.com/_feryamaha))
+- **Discord**: 
 
 ---
 
