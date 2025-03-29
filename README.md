@@ -6,21 +6,15 @@ Desde 2022, passei por uma transição de carreira e venho me dedicando ao desen
 
 ## Pilha de Tecnologia e Ferramentas
 
-### Linguagens de Programação
+### Linguagens
 <div style="display: flex; flex-direction: row; gap: 10px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-</div>
-
-### Linguagens em fase de aprendizado! 
-<div style="display: flex; flex-direction: row; gap: 10px; flex-wrap: wrap;">
-   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+     <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 </div>
 
 ### Frameworks
-Experiência prática com estruturas modernas de desenvolvimento.
-
 <div style="display: flex; flex-direction: row; gap: 10px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
@@ -29,8 +23,6 @@ Experiência prática com estruturas modernas de desenvolvimento.
 </div>
 
 ### Design Visual
-Conhecimento profundo em interfaces visuais e estilização para o desenvolvimento e a implantação.
-
 <div style="display: flex; flex-direction: row; gap: 10px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/-CSS%20Modules-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS Modules">
@@ -41,8 +33,6 @@ Conhecimento profundo em interfaces visuais e estilização para o desenvolvimen
 </div>
 
 ### Tools
-Apoio para ambientes baseados em Linux e desenvolvimento de sistemas embarcados.
-
 <div style="display: flex; flex-direction: row; gap: 10px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode">
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
@@ -52,11 +42,9 @@ Apoio para ambientes baseados em Linux e desenvolvimento de sistemas embarcados.
 </div>
 
 ### Dados e API
-Conhecimento profundo na infraestrutura em nuvem e gerenciamento de banco de dados para aplicativos escaláveis.
-
 <div style="display: flex; flex-direction: row; gap: 10px; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/-Consumo%20de%20API-000000?style=flat-square&logo=api&logoColor=white" alt="Consumo de API">
   <img src="https://img.shields.io/badge/-Chamadas%20HTTP-000000?style=flat-square&logo=api&logoColor=white" alt="Chamadas HTTP">
   <img src="https://img.shields.io/badge/-REST-000000?style=flat-square&logo=api&logoColor=white" alt="REST">
