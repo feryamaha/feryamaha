@@ -1,5 +1,10 @@
+
+```md
 # profile = fernando_moreira.init()
+
+```python
 profile.setProperty("role", "Desenvolvedor Front-End")
+
 def showcase_skills(stack, display_mode):
     if display_mode == "visible":
         try:
@@ -12,7 +17,8 @@ def showcase_skills(stack, display_mode):
             print(f"Status: Freelancer Autodidata | Aberto a Oportunidades")
         except Exception as e:
             print(f"Erro ao exibir o perfil: {str(e)}")
-    showcase_skills("front-end", "visible")
+
+showcase_skills("front-end", "visible")
 
 ### Olá! 👋
 
