@@ -1,29 +1,44 @@
 
-### Olá! 👋
+# 🚀 Sobre mim
 
-Eu sou Fernando Moreira, desenvolvedor Front end, apaixonado por criar projetos incríveis. 
+Olá! 👋 Sou Fernando Moreira, desenvolvedor Front End, apaixonado por criar projetos incríveis.
 
-## Sobre Mim
+🌐 Cofundador e CEO da PlanBTech – Focado em fornecer soluções de tecnologia de ponta.
+💻 Expertise em: Desenvolvimento de frontend, arquiteturas modernas e interfaces responsivas.
+🔥 Apaixonado pelas melhores práticas de engenharia de software, otimização de desempenho e código limpo.
+🤝 Sempre aberto a colaborações, novos desafios e compartilhamento de conhecimento com a comunidade de desenvolvedores.
 
-Desenvolvedor Front End com experiência em construir aplicações web interativas e responsivas em pixel perfect.
+## 🛠️ Pilha de tecnologia e ferramentas
 
-## Stacks
+### 🚀 Linguagens de Programação
+Proficiente em vários idiomas, garantindo flexibilidade entre vários projetos e arquiteturas.
 
-![Stacks and Languages](https://github.com/feryamaha/feryamaha/blob/main/frame_3820-C.webp)
+HTML, CSS, SASS, JavaScript, React, Next.js, Node.js, PostgreSQL
 
-## Estatísticas
+### 🚀 Frameworks e ferramentas de desenvolvimento
+Experiência prática com estruturas modernas e ferramentas essenciais para acelerar o desenvolvimento e a implantação.
 
+VSCode, Git, GitHub, Vercel, Figma
+
+### 🚀 Nuvem e Bancos de Dados
+Conhecimento profundo de infraestrutura de nuvem e gerenciamento de banco de dados para aplicativos escaláveis.
+
+Firebase, PostgreSQL, MySQL
+
+### 🚀 Sistemas Operacionais e Sistemas Embarcados
+Apaixonado por ambientes baseados em Linux e desenvolvimento de sistemas embarcados.
+
+Linux, Arduino
+
+## 📊 Estatísticas do GitHub
 ![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=feryamaha&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feryamaha&layout=compact&theme=radical)
 
-## Entre em Contato
+## 📫 Entre em contato comigo
+Interessado em colaborar ou apenas quer se conectar? Sinta-se à vontade para entrar em contato!
 
-- **Email**: [contato@feryamaha.com](feryamaha@hotmail.com)
-- **LinkedIn**: [Fernando Moreira](https://www.linkedin.com/in/feryamaha/)
-- **Twitter**: [@feryamaha](https://x.com/_feryamaha)
-- **Discord**: 
+📩 **E-mail**: [contato@feryamaha.com](mailto:contato@feryamaha.com)
+💼 **LinkedIn**: [Fernando Moreira](https://www.linkedin.com/in/feryamaha/)
+📌 **Twitter**: [@feryamaha](https://x.com/_feryamaha)
 
----
-
-Obrigado por visitar meu perfil! Sinta-se à vontade para entrar em contato ou explorar meus projetos.
+🔥 Vamos construir algo grandioso juntos! 🚀
