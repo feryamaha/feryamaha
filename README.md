@@ -68,7 +68,7 @@ Sinta-se à vontade para entrar em contato! Estou sempre aberto a novas ideias e
 - **Portifólio**:[<meu.portifólio/>](https://feryamaha.github.io/Portifolio-FernandoMoreira_front-end/)
 
 - **LinkedIn**: [<Fernando.Moreira/>](https://www.linkedin.com/in/feryamaha/)  
-- **GitHub**: [<feryamaha/>](https://github.com/feryamaha)  
+- **GitHub**: [feryamaha](https://github.com/feryamaha)  
 - **Twitter**: [@feryamaha/>](https://x.com/_feryamaha)  
 - **Discord**: [<Fernando.Moreira/>](https://discord.com/channels/978717375362891776)
   
