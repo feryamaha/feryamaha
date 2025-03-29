@@ -1,20 +1,23 @@
 ## Sobre Mim
 
-Olá, eu sou Fernando Moreira da Silva! Sou um desenvolvedor Front-End autodidata. Posso desenvolver sites responsivos do zero e elevá-los a experiências web modernas, amigáveis e responsivas.
+Olá, eu sou Fernando Moreira da Silva! Sou um desenvolvedor Front-End autodidata apaixonado por transformar ideias em experiências digitais. 
+Com uma abordagem autônoma e disciplinada, desenvolvo sites do zero e os elevo a soluções web modernas, responsivas, amigáveis e fiéis ao "pixel perfect" em relação aos designs do Figma.
 
-Desde 2022, passei por uma transição de carreira e venho me dedicando ao desenvolvimento Front-End, atuando como freelancer e prestador de serviços. Antes disso, acumulei 18 anos de experiência.
+Antes de mergulhar no universo do desenvolvimento, acumulei 18 anos de experiência como Técnico em Plástico, com foco em engenharia de materiais, e em Metrologia 3D, com foco em engenharia reversa. 
+Desde 2022, fiz uma transição de carreira determinada e hoje estou 100% dedicado ao desenvolvimento Front-End, atuando como freelancer e prestador de serviços.
 
-Estou em processo de aprendizado e aqui está o que estou aprendendo no momento:
+Minha jornada autodidata é movida por curiosidade e compromisso com a excelência. 
+Estou sempre aprendendo e aprimorando minhas habilidades, e atualmente meu foco está em: 
 
-- Trabalhar com a stack mais utilizada do mercado sem depender de bibliotecas
-- Construir APIs REST utilizando Node.js puro e com Express
-- Construir aplicações Front-end com React
-- Construir aplicativos mobile com React Native
-- Trabalhar com bancos de dados SQL usando SQL puro
-- Criar código limpo, reutilizável, escalável e de fácil manutenção
-- Como melhorar a UX e performance das suas aplicações
+- Dominar a stack mais demandada do mercado (React) sem depender de bibliotecas externas;  
+- Construir aplicações Front-End robustas com React;  
+- Desenvolver aplicativos mobile com React Native;  
+- Criar APIs REST eficientes usando Node.js puro e Express;  
+- Trabalhar com bancos de dados SQL utilizando SQL nativo;  
+- Escrever código limpo, reutilizável, escalável e de fácil manutenção;  
+- Otimizar a UX e a performance de aplicações web.
 
-## Pilha de Tecnologia e Ferramentas
+Com uma base sólida em resolução de problemas e uma mentalidade de aprendizado contínuo, estou pronto para contribuir com soluções criativas e de alto impacto em projetos desafiadores.
 
 ### Linguagens
 <div style="display: flex; flex-direction: row; gap: 10px; flex-wrap: wrap;">
@@ -63,7 +66,6 @@ Estou em processo de aprendizado e aqui está o que estou aprendendo no momento:
 </div>
 
 ## Entre em Contato Comigo
-
 Sinta-se à vontade para entrar em contato! Estou sempre aberto a novas ideias e oportunidades.
 
 - **Portifólio**:[<meu.portifólio/>](https://feryamaha.github.io/Portifolio-FernandoMoreira_front-end/)
