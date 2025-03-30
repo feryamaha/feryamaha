@@ -1,5 +1,5 @@
 <div align="center">
-  <img widih="100%" height="150" src="https://raw.githubusercontent.com/feryamaha/feryamaha/refs/heads/main/frame_3820-B.webp"  />
+  <img widih="100%" src="https://raw.githubusercontent.com/feryamaha/feryamaha/refs/heads/main/frame_3820-B.webp"  />
 </div>
 
 ###
@@ -31,7 +31,7 @@
 
 ###
 
--------------------------------------------------------/>
+______________________________________________________________________________________________________________________________________________
 <h1 border="none" align="left"> Linguagens </h1>
 
 <div align="left">
@@ -44,7 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python logo"  />
 </div>
 
--------------------------------------------------------/>
+______________________________________________________________________________________________________________________________________________
 <h1 align="left">Estruturas</h1>
 
 <div align="left">
@@ -53,7 +53,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32" alt="nextjs logo"  />
 </div>
 
--------------------------------------------------------/>
+______________________________________________________________________________________________________________________________________________
 <h1 align="left">Design Visual</h1>
 
 <div align="left">
@@ -66,7 +66,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="32" alt="bootstrap logo"  />
 </div>
 
--------------------------------------------------------/>
+______________________________________________________________________________________________________________________________________________
 <h1 align="left">Ferramentas</h1>
 
 <div align="left">
@@ -79,7 +79,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32" alt="figma logo"  />
 </div>
 
--------------------------------------------------------/>
+______________________________________________________________________________________________________________________________________________>
 <h1 align="left">Dados e API</h1>
 
 <div align="left">
