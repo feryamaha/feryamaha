@@ -31,7 +31,7 @@
 
 ###
 ______________________________________________________________________________________________________________________________________________
-<h1 border="none" align="left"> Linguagens </h1>
+<h1 border="none" align="left"> LINGUAGENS </h1>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="html5 logo"  />
@@ -44,7 +44,7 @@ ________________________________________________________________________________
 </div>
 
 ______________________________________________________________________________________________________________________________________________
-<h1 align="left">Estruturas</h1>
+<h1 align="left"> ESTRUTURAS </h1>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="react logo"  />
@@ -53,7 +53,7 @@ ________________________________________________________________________________
 </div>
 
 ______________________________________________________________________________________________________________________________________________
-<h1 align="left">Design Visual</h1>
+<h1 align="left"> DESIGN VISUAL </h1>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="css3 logo"  />
@@ -66,7 +66,7 @@ ________________________________________________________________________________
 </div>
 
 ______________________________________________________________________________________________________________________________________________
-<h1 align="left">Ferramentas</h1>
+<h1 align="left"> FERRAMENTAS </h1>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="vscode logo"  />
@@ -79,7 +79,7 @@ ________________________________________________________________________________
 </div>
 
 ______________________________________________________________________________________________________________________________________________
-<h1 align="left">Dados e API</h1>
+<h1 align="left"> DADOS </h1>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="nodejs logo"  />
