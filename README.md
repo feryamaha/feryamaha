@@ -3,6 +3,7 @@
 </div>
 
 ###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/feryamaha/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -14,13 +15,20 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
 </div>
+
 ###
+
 <h1 align="center">Olá, eu sou Fernando Moreira da Silva!</h1>
+
 ###
+
 <br clear="both">
 <p align="left">Sou um desenvolvedor Front-End autodidata apaixonado por transformar ideias em experiências digitais.<br>Com uma abordagem autônoma e disciplinada, desenvolvo sites do zero e os elevo a soluções web modernas, responsivas, amigáveis ​​e honestas ao "pixel perfect" em relação aos designs do Figma. <br><br><br>Minha jornada autodidata é movida por curiosidade e compromisso com a excelência. Estou sempre aprendendo e aprimorando habilidades, e atualmente meu foco está em:</p>
+
 ###
+
 <p align="left">- Dominar a pilha mais demandada do mercado (React) sem depender de bibliotecas externas;<br>- Construir aplicações Front-End robustas com React;<br>- Desenvolver aplicativos mobile com React Native;<br>- Criar APIs REST eficientes usando Node.js puro e Express;<br>- Trabalhar com bancos de dados SQL utilizando SQL nativo;<br>- Escrever código limpo, reutilizável, escalável e de fácil manutenção;<br>- Além da UX e do desempenho de aplicações web</p>
+
 ###
 ______________________________________________________________________________________________________________________________________________
 <h1 border="none" align="left"> Linguagens </h1>
@@ -52,7 +60,7 @@ ________________________________________________________________________________
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="32" alt="sass logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="32" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="64" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="32" alt="bootstrap logo"  />
 </div>
