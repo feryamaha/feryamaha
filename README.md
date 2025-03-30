@@ -31,8 +31,8 @@
 
 ###
 
+-------------------------------------------------------/>
 <h1 align="left">🛠 Language and tools</h1>
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="html5 logo"  />
@@ -44,11 +44,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python logo"  />
 </div>
 
-###
-
+-------------------------------------------------------/>
 <h1 align="left">Estruturas</h1>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="react logo"  />
@@ -56,11 +53,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32" alt="nextjs logo"  />
 </div>
 
-###
-
+-------------------------------------------------------/>
 <h1 align="left">Design Visual</h1>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="css3 logo"  />
@@ -72,11 +66,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="32" alt="bootstrap logo"  />
 </div>
 
-###
-
+-------------------------------------------------------/>
 <h1 align="left">Ferramentas</h1>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="vscode logo"  />
@@ -88,11 +79,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32" alt="figma logo"  />
 </div>
 
-###
-
+-------------------------------------------------------/>
 <h1 align="left">Dados e API</h1>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="nodejs logo"  />
