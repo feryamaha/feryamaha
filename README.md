@@ -4,20 +4,16 @@
 
 ###
 
-<style>
-  .no-underline a {
-    text-decoration: none !important;
-  }
-</style>
 
-<div class="no-underline" align="center">
-  <a href="https://www.linkedin.com/in/feryamaha/" target="_blank">
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/feryamaha/" target="_blank" style="text-decoration: none;">
     <img src="https://github.com/feryamaha/feryamaha/blob/main/icons8-linkedin-50.png" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://x.com/_feryamaha" target="_blank">
+  <a href="https://x.com/_feryamaha" target="_blank" style="text-decoration: none;">
     <img src="https://github.com/feryamaha/feryamaha/blob/main/icons8-x-50%20(3).png" height="25" alt="twitter logo" />
   </a>
-  <a href="https://discord.com/channels/@feryamaha" target="_blank">
+  <a href="https://discord.com/channels/@feryamaha" target="_blank" style="text-decoration: none;">
     <img src="https://github.com/feryamaha/feryamaha/blob/main/icons8-discord-50.png" height="25" alt="discord logo" />
   </a>
 </div>
