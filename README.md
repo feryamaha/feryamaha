@@ -23,7 +23,7 @@
 ###
 
 <br clear="both">
-<p align="left">Sou um desenvolvedor Front-End autodidata apaixonado por transformar ideias em experiências digitais.<br>Com uma abordagem autônoma e disciplinada, desenvolvo sites do zero e os elevo a soluções web modernas, responsivas, amigáveis ​​e honestas ao "pixel perfect" em relação aos designs do Figma. <br><br><br>Minha jornada autodidata é movida por curiosidade e compromisso com a excelência. Estou sempre aprendendo e aprimorando habilidades, e atualmente meu foco está em:</p>
+<p align="left">Sou um desenvolvedor Front-End autodidata apaixonado por transformar ideias em experiências digitais. <br> Minha jornada autodidata é movida por curiosidade e compromisso com a excelência. <br> Estou sempre aprendendo e aprimorando habilidades, e atualmente meu foco está em:
 
 ###
 
