@@ -6,13 +6,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/feryamaha/" target="_blank">
-    <img src="https://github.com/feryamaha/feryamaha/blob/main/Linkedin.svg" height="25" alt="linkedin logo"  />
+    <img src="https://github.com/feryamaha/feryamaha/blob/main/icons8-linkedin-50.png" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/_feryamaha" target="_blank">
-    <img src="https://github.com/feryamaha/feryamaha/blob/main/X.svg" height="25" alt="twitter logo"  />
+    <img src="https://github.com/feryamaha/feryamaha/blob/main/icons8-x-50%20(3).png" height="25" alt="twitter logo"  />
   </a>
   <a href="https://discord.com/channels/@feryamaha" target="_blank">
-    <img src="https://github.com/feryamaha/feryamaha/blob/main/Discord.svg" height="25" alt="discord logo"  />
+    <img src="https://github.com/feryamaha/feryamaha/blob/main/icons8-discord-50.png" height="25" alt="discord logo"  />
   </a>
 </div>
 
