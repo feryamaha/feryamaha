@@ -4,14 +4,6 @@
 
 ###
 
-
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/feryamaha/" target="_blank"><img src="https://github.com/feryamaha/feryamaha/blob/main/icons8-linkedin-50.png" height="25" alt="linkedin logo" /></a>
-  <a href="https://x.com/_feryamaha" target="_blank"><img src="https://github.com/feryamaha/feryamaha/blob/main/icons8-x-50%20(3).png" height="25" alt="twitter logo" /></a>
-  <a href="https://discord.com/channels/@feryamaha" target="_blank"><img src="https://github.com/feryamaha/feryamaha/blob/main/icons8-discord-50.png" height="25" alt="discord logo" /></a>
-</div>
-
 ###
 
 <h1 align="center">Olá, eu sou Fernando Moreira da Silva!</h1>
@@ -72,7 +64,6 @@ Sinta-se à vontade para entrar em contato! Estou sempre aberto a novas ideias e
 
 - **Portifólio**:[<meu.portifólio/>](https://feryamaha.github.io/Hub_Fernando.dev/)
 - **LinkedIn**: [<Fernando.Moreira/>](https://www.linkedin.com/in/feryamaha/)  
-- **GitHub**: [feryamaha](https://github.com/feryamaha)  
 - **Twitter**: [@feryamaha/>](https://x.com/_feryamaha)  
 - **Discord**: [<Fernando.Moreira/>](https://discord.com/channels/978717375362891776)
   
