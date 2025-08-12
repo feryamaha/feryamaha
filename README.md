@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">- Dominar a pilha mais demandada do mercado (React) sem depender de bibliotecas externas;<br>- Construir aplicações Front-End robustas com React;<br>- Desenvolver aplicativos mobile com React Native;<br>- Criar APIs REST eficientes usando Node.js puro e Express;<br>- Trabalhar com bancos de dados SQL utilizando SQL nativo;<br>- Escrever código limpo, reutilizável, escalável e de fácil manutenção;<br>- Além da UX e do desempenho de aplicações web</p>
+<p align="left">- Dominar as duas pilhas mais demandadas do mercado (React e Next) sem depender de bibliotecas externas;<br>- Construir aplicações Front-End robustas com React e Next;<br>- Desenvolver aplicativos mobile com React Native;<br>- Criar APIs REST eficientes usando Node.js puro e Express;<br>- Trabalhar com bancos de dados SQL utilizando SQL nativo;<br>- Escrever código limpo, reutilizável, escalável e de fácil manutenção;<br>- Além da UX e do desempenho de aplicações web</p>
 
 ###
 ______________________________________________________________________________________________________________________________________________
