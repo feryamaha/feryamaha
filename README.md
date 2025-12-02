@@ -6,7 +6,7 @@
 
 <br/>
 
-Sou engenheiro front-end especializado em **interfaces premium**, **arquiteturas de alto desempenho** e **aplicações seguras por padrão**.  
+Sou engenheiro front-end especializado em **arquiteturas de alto desempenho** e **aplicações seguras por padrão**.  
 Meu foco é transformar design, produto e engenharia em software escalável — sem adivinhar, **com princípios técnicos claros.**
 
 🔹 **Frontend-first** → UI sólida antes de complexidade desnecessária  
@@ -60,19 +60,6 @@ Meu foco é transformar design, produto e engenharia em software escalável — 
 
 > **Frontend ≠ "tela bonita"**  
 > Frontend moderno é **engenharia de superfície**: UX, estado, rede, cache, risco e produção.
-
----
-
-## 🛠️ O que estou construindo
-
-- **Portfólio estilo macOS Finder → refatoração para Next.js 15**
-  - Renderização híbrida (RSC + CSR)
-  - BFF isolando APIs
-  - Arquitetura em camadas
-- **Componentes UI premium**
-  - TrueFocus
-  - Rotating Text Engine
-  - Animations Edge-safe
 
 ---
 
