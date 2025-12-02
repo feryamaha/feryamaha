@@ -1,68 +1,88 @@
 <div align="center">
-  <img widih="100%" src="https://raw.githubusercontent.com/feryamaha/feryamaha/refs/heads/main/frame_3820-B.webp"  />
+  <img width="100%" src="https://raw.githubusercontent.com/feryamaha/feryamaha/refs/heads/main/frame_3820-B.webp" />
 </div>
 
-###
+<h1 align="center">Fernando Moreira — Frontend Engineer</h1>
 
-###
+<br/>
 
-<h1 align="center">Olá, eu sou Fernando Moreira da Silva!</h1>
+Sou engenheiro front-end especializado em **interfaces premium**, **arquiteturas de alto desempenho** e **aplicações seguras por padrão**.  
+Meu foco é transformar design, produto e engenharia em software escalável — sem adivinhar, **com princípios técnicos claros.**
 
-###
+🔹 **Frontend-first** → UI sólida antes de complexidade desnecessária  
+🔹 **Arquitetura em camadas** → UI → Hooks → Services → BFF  
+🔹 **Performance real** → RSC híbrido, edge caching, bundle mínimo  
+🔹 **Segurança de nível enterprise** → CSP strict-dynamic, HSTS, COOP/COEP, validação runtime  
+🔹 **Experiência premium** → Pixel Perfect, acessibilidade, animações suaves
 
-<br clear="both">
-<p align="left">Sou um desenvolvedor Front-End autodidata apaixonado por transformar ideias em experiências digitais. <br> Minha jornada autodidata é movida por curiosidade e compromisso com a excelência. <br> Estou sempre aprendendo e aprimorando habilidades, e atualmente meu foco está em:
+---
 
-###
+## 🧠 Mentalidade de Engenharia
 
-<p align="left">- Dominar as duas pilhas mais demandadas do mercado (React e Next) sem depender de bibliotecas externas;<br>- Construir aplicações Front-End robustas com React e Next;<br>- Desenvolver aplicativos mobile com React Native;<br>- Criar APIs REST eficientes usando Node.js puro e Express;<br>- Trabalhar com bancos de dados SQL utilizando SQL nativo;<br>- Escrever código limpo, reutilizável, escalável e de fácil manutenção;<br>- Além da UX e do desempenho de aplicações web</p>
+> “Componentes são detalhes. O que escala é arquitetura.”
 
-###
-______________________________________________________________________________________________________________________________________________
-<div align="left" style="display: flex; flex-direction: row; flex-wrap: wrap;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="typescript logo"  />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32" alt="nextjs logo"  />
-  <img width="32" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="32" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://github.com/feryamaha/feryamaha/blob/main/icons8-tailwind-css-48.png" height="32" alt="tailwindcss logo"  />
-  <img width="12" />
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="32" alt="bootstrap logo"  />
-  <img width="32"  /> -->
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="32" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="postgresql logo"  />
-  <img width="32" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32" alt="figma logo"  />
+- Modelagem de UI em **design system** (tokens, composição, semântica)
+- **Next.js 15 + React 19** com **App Router + RSC híbrido**
+- **BFF** com Route Handlers + **validação Zod** runtime
+- Estruturas de cache → revalidate, incremental hydration
+- **Edge-first**: deploy, SSR, APIs e proteção de credenciais
+- **Automação de qualidade**: Lint, Prettier, Git hooks, pipelines
+
+---
+
+## 🧩 Stack Principal
+
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="32" />
+  <img src="https://github.com/feryamaha/feryamaha/blob/main/icons8-tailwind-css-48.png" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32" />
 </div>
 
-###
+---
 
-## Entre em Contato Comigo
+## 🛡️ Segurança (OWASP A+)
+- CSP strict-dynamic (nonce)
+- HSTS + HTTPS obrigatório
+- COOP/COEP (isolamento de contexto)
+- X-Frame-Options: DENY
+- Runtime validation com **Zod**
+- **API Keys isoladas (server-only)**
+- **CSR limitado apenas ao que precisa**
 
-- **Portifólio**:[<meu.portifólio/>](https://feryamaha.github.io/Hub_Fernando.dev/)
-- **LinkedIn**: [<Fernando.Moreira/>](https://www.linkedin.com/in/feryamaha/)  
-- **Twitter**: [@feryamaha/>](https://x.com/_feryamaha)  
-- **Discord**: [<Fernando.Moreira/>](https://discord.com/channels/978717375362891776)
-  
+> **Frontend ≠ "tela bonita"**  
+> Frontend moderno é **engenharia de superfície**: UX, estado, rede, cache, risco e produção.
+
+---
+
+## 🛠️ O que estou construindo
+
+- **Portfólio estilo macOS Finder → refatoração para Next.js 15**
+  - Renderização híbrida (RSC + CSR)
+  - BFF isolando APIs
+  - Arquitetura em camadas
+- **Componentes UI premium**
+  - TrueFocus
+  - Rotating Text Engine
+  - Animations Edge-safe
+
+---
+
+## 📫 Contato
+
+- **Portfólio**: https://feryamaha.github.io/Hub_Fernando.dev/  
+- **LinkedIn**: https://www.linkedin.com/in/feryamaha/  
+- **Twitter/X**: https://x.com/_feryamaha  
+- **GitHub**: https://github.com/feryamaha  
+
+---
+
+> **“Meu trabalho é fazer produtos que as pessoas amam usar e que os times conseguem manter.”**
