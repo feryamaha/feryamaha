@@ -49,7 +49,7 @@ Meu foco é transformar design, produto e engenharia em software escalável — 
 
 ---
 
-## 🛡️ Segurança (OWASP A+)
+## 🛡️ Segurança (OWASP)
 - CSP strict-dynamic (nonce)
 - HSTS + HTTPS obrigatório
 - COOP/COEP (isolamento de contexto)
