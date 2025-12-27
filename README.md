@@ -6,7 +6,7 @@
 
 <br/>
 
-Sou engenheiro front-end especializado em **arquiteturas de alto desempenho** e **aplicações seguras por padrão**.  
+Sou desenvolvedor front-end junior me especializando em **arquiteturas de alto desempenho** e **aplicações seguras por padrão**.  
 Meu foco é transformar design, produto e engenharia em software escalável — sem adivinhar, **com princípios técnicos claros.**
 
 🔹 **Frontend-first** → UI sólida antes de complexidade desnecessária  
