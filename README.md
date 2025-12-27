@@ -9,15 +9,15 @@
 Sou Frontend Developer me especializando em **arquiteturas de alto desempenho** e **aplicações seguras por padrão**.  
 Meu foco é transformar design, produto e engenharia em software escalável — sem adivinhar, **com princípios técnicos claros.**
 
-🔹 **Frontend-first** → UI sólida antes de complexidade desnecessária  
-🔹 **Arquitetura em camadas** → UI → Hooks → Services → BFF  
-🔹 **Performance real** → RSC híbrido, edge caching, bundle mínimo  
-🔹 **Segurança de nível enterprise** → CSP strict-dynamic, HSTS, COOP/COEP, validação runtime  
-🔹 **Experiência premium** → Pixel Perfect, acessibilidade, animações suaves
+- **Frontend-first** → UI sólida antes de complexidade desnecessária  
+- **Arquitetura em camadas** → UI → Hooks → Services → BFF  
+- **Performance real** → RSC híbrido, edge caching, bundle mínimo  
+- **Segurança de nível enterprise** → CSP strict-dynamic, HSTS, COOP/COEP, validação runtime  
+- **Experiência premium** → Pixel Perfect, acessibilidade, animações suaves
 
 ---
 
-## 🧠 Mentalidade de Engenharia
+## + Mentalidade de Engenharia
 
 > “Componentes são detalhes. O que escala é arquitetura.”
 
@@ -30,7 +30,7 @@ Meu foco é transformar design, produto e engenharia em software escalável — 
 
 ---
 
-## 🧩 Stack Principal
+## + Stack Principal
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" />
@@ -49,7 +49,7 @@ Meu foco é transformar design, produto e engenharia em software escalável — 
 
 ---
 
-## 🛡️ Segurança (OWASP)
+## + Segurança (OWASP)
 - CSP strict-dynamic (nonce)
 - HSTS + HTTPS obrigatório
 - COOP/COEP (isolamento de contexto)
@@ -63,7 +63,7 @@ Meu foco é transformar design, produto e engenharia em software escalável — 
 
 ---
 
-## 📫 Contato
+## + Contato
 
 - **Portfólio**: https://feryamaha.github.io/Hub_Fernando.dev/  
 - **LinkedIn**: https://www.linkedin.com/in/feryamaha/  
