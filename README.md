@@ -22,7 +22,7 @@ Meu foco é transformar design, produto e engenharia em software escalável — 
 > “Componentes são detalhes. O que escala é arquitetura.”
 
 - Modelagem de UI em **design system** (tokens, composição, semântica)
-- **Next.js 15 + React 19** com **App Router + RSC híbrido**
+- **Next.js + React ** com **App Router + RSC híbrido**
 - **BFF** com Route Handlers + **validação Zod** runtime
 - Estruturas de cache → revalidate, incremental hydration
 - **Edge-first**: deploy, SSR, APIs e proteção de credenciais
