@@ -6,13 +6,13 @@
 
 <br/>
 
-Sou Frontend Developer me especializando em **arquiteturas de alto desempenho** e **aplicações seguras por padrão**.  
+Sou Frontend Developer com experiência em **arquiteturas de alto desempenho** e **aplicações seguras por padrão**.  
 Meu foco é transformar design, produto e engenharia em software escalável — sem adivinhar, **com princípios técnicos claros.**
 
 - **Frontend-first** → UI sólida antes de complexidade desnecessária  
 - **Arquitetura em camadas** → UI → Hooks → Services → BFF  
 - **Performance real** → RSC híbrido, edge caching, bundle mínimo  
-- **Segurança de nível enterprise** → CSP strict-dynamic, HSTS, COOP/COEP, validação runtime  
+- **Segurança de nível enterprise** → CSP strict-dynamic, HSTS, COOP/COEP, validação runtime, OWASP
 - **Experiência premium** → Pixel Perfect, acessibilidade, animações suaves
 
 ---
