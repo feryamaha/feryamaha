@@ -59,7 +59,7 @@ Sistema de **enforcement determinístico** para desenvolvimento assistido por IA
 
 ## + De onde venho
 
-Antes de software, foram **17 anos em metrologia industrial** — precisão milimétrica, GD&T avançado e engenharia reversa. Não é trivia: é a origem de como penso código. Contratos explícitos, tolerância zero a ambiguidade e qualidade verificável vieram da bancada de medição para a arquitetura e a segurança.
+Antes de software, foram **17 anos em metrologia 3D** — precisão milimétrica, GD&T avançado e engenharia reversa. Não é trivial: é a origem de como penso código. Contratos explícitos, tolerância zero a ambiguidade e qualidade verificável vieram do background de metrologia para a arquitetura e a segurança.
 
 ---
 
@@ -69,6 +69,7 @@ Antes de software, foram **17 anos em metrologia industrial** — precisão mili
 - **LinkedIn**: https://www.linkedin.com/in/feryamaha/
 - **Twitter/X**: https://x.com/_feryamaha
 - **GitHub**: https://github.com/feryamaha
+- **Nemesis_Defender**: https://feryamaha.github.io/Nemesis_Defender_v2.0/
 
 ---
 
