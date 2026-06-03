@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Fernando Moreira</h1>
-<p align="center"><strong>Full-Stack TypeScript · Segurança de Aplicações & Governança de IA · Autor do Nemesis Framework</strong></p>
+<p align="center"><strong>Full-Stack TypeScript (React/Next.js) · OWASP · Autor do Nemesis Defender</strong></p>
 
 <br/>
 
