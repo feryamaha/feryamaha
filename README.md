@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/feryamaha/feryamaha/refs/heads/main/frame_3820-B.webp" />
+  <img width="100%" src="https://raw.githubusercontent.com/feryamaha/feryamaha/refs/heads/main/gjeXH.png" />
 </div>
 
 <h1 align="center">Fernando Moreira</h1>
