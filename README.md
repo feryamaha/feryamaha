@@ -17,7 +17,7 @@ Desenvolvedor Full-Stack TypeScript com foco em **arquitetura limpa**, **seguran
 
 ---
 
-## 🛡️ Nemesis Framework
+## 🛡️ Nemesis Defender
 
 Sistema de **enforcement determinístico** para desenvolvimento assistido por IA, escrito em **Rust**. Construído ao longo de ~1 ano dentro de um projeto real de produção, evoluindo de regras em markdown → AST linter automático → três camadas independentes.
 
