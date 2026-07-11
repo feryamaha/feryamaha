@@ -69,7 +69,7 @@ Antes de software, foram **17 anos em metrologia 3D** — precisão milimétrica
 - **LinkedIn**: https://www.linkedin.com/in/feryamaha/
 - **Twitter/X**: https://x.com/_feryamaha
 - **GitHub**: https://github.com/feryamaha
-- **Nemesis_Defender**: https://feryamaha.github.io/Nemesis_Defender_v2.0/
+- **Nemesis_Defender**: https://feryamaha.github.io/Nemesis_Defender_v0/
 
 ---
 
