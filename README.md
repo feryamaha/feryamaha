@@ -65,7 +65,7 @@ Antes de software, foram **17 anos em metrologia 3D** — precisão milimétrica
 
 ## + Contato
 
-- **Portfólio**: https://feryamaha.github.io/Hub_Fernando.dev/
+- **Portfólio**: https://hub-fernando-dev.vercel.app/
 - **LinkedIn**: https://www.linkedin.com/in/feryamaha/
 - **Twitter/X**: https://x.com/_feryamaha
 - **GitHub**: https://hub-fernando-dev.vercel.app/
